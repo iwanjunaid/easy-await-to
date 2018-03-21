@@ -1,0 +1,20 @@
+{
+  "name": "easy-await-to",
+  "version": "1.0.0",
+  "author": "Kurniawan Junaidy <iwan.junaid@gmail.com>",
+  "license": "MIT",
+  "description": "Humanize try-catch in async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iwanjunaid/easy-await-to.git"
+  },
+  "keywords": ["try-catch", "async/await", "easy", "humanize"],
+  "bugs": {
+    "url": "https://github.com/iwanjunaid/easy-await-to/issues"
+  },
+  "homepage": "https://github.com/iwanjunaid/easy-await-to#readme"
+}
